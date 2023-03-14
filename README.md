@@ -23,8 +23,6 @@
 ```javascript
 const Greg = {
   pronouns: "he" | "him",
-  code: [Javascript, Typescript, HTML, CSS],
-  tools: [React, Redux, Node, Tailwind Css],
   location: "Lisbon/Portugal"
   funFact: "I find it amazing how technology is able to change our social relationships."
 }
