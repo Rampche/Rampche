@@ -28,6 +28,8 @@ const Greg = {
 }
 ```
 ---
+![image](https://komarev.com/ghpvc/?username=rampche&color=brightgreen)
+---
 
 Follow me:
 <a href="https://www.linkedin.com/in/gregoriorampche/">
