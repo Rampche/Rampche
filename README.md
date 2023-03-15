@@ -10,7 +10,7 @@
 <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="center" width="200" height="auto" />
 </a>
 
-This is my personal website: gregorio-latest-portfolio.netlify.app/
+This is my personal website: [https://www.gregorio-latest-portfolio.netlify.app/](https://gregorio-latest-portfolio.netlify.app)
 
 ![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
