@@ -24,7 +24,7 @@ This is my personal website: [https://www.gregorio-latest-portfolio.netlify.app/
 ```javascript
 const Greg = {
   pronouns: "he" | "him",
-  location: "Lisbon/Portugal"
+  location: "Recife/PE - Brasil"
   funFact: "I find it amazing how technology is able to change our social relationships."
 }
 ```
