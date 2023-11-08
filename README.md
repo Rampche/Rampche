@@ -1,7 +1,5 @@
 ## Hello there! I am Gregório Rampche! 🧑🏻‍💻
 
-### I am a *Web Developer*.
-
 <a href="https://github.com/rampche/convoychat">
   <img align="left" alt="side Image" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rampche&theme=nightowl&hide=html&layout=compact" />
 </a>
